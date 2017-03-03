@@ -14,7 +14,7 @@
   Creation Date:  03-Mar-2017
  
 .LINK
-    www.kimmohintikka.com
+    https://github.com/HintikkaKimmo/Ping-with-Powershell
     
 .EXAMPLE
   Ping-IPList c:\ip.csv
